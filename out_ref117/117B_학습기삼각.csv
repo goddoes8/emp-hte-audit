@@ -1,0 +1,8 @@
+﻿학습기,CV_R2
+HGB(d6),0.0557
+HGB(d3),0.0792
+RandomForest,0.0493
+ExtraTrees,0.0462
+Ridge(표준화),0.115
+kNN(k=50),0.0451
+"MLP(64,32)",0.056
